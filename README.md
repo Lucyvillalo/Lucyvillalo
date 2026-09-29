@@ -1,4 +1,4 @@
-# ¡Hola! Soy Rosa Lucía Villalobos 👋
+# ¡Hola! Soy Lucy Villalobos 👋
 
 ### Estudiante de Técnico en Computación | Universidad Don Bosco
 
