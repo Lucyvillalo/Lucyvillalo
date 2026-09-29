@@ -73,18 +73,23 @@ Actualmente continúo fortaleciendo mis conocimientos y desarrollando proyectos 
 
 ---
 
-### Actividad en GitHub
+### Mis contribuciones
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucyvillalo&show_icons=true&hide_border=true" height="165" alt="Estadísticas de GitHub"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Lucyvillalo/Lucyvillalo/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Lucyvillalo/Lucyvillalo/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animación de contribuciones de GitHub"
+    src="https://raw.githubusercontent.com/Lucyvillalo/Lucyvillalo/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucyvillalo&layout=compact&hide_border=true" height="165" alt="Lenguajes más utilizados"/>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lucyvillalo/lucyvillalo/snake-output/snake.svg" alt="GitHub contribution snake"/>
 </div>
