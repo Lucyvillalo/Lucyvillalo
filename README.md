@@ -1,12 +1,36 @@
-# ¡Hola! Soy Lucy Villalobos 👋
+<table>
+  <tr>
+    <td width="65%" valign="middle">
 
-### Estudiante de Técnico en Computación | Universidad Don Bosco
+<h1>¡Hola! Soy Lucy Villalobos 👋</h1>
 
-Soy estudiante de **Técnico en Computación en la Universidad Don Bosco** y becaria del **Programa Oportunidades FGK**.
+<h3>Estudiante de Técnico en Computación | Universidad Don Bosco</h3>
 
-Me interesa especialmente el **desarrollo de software y desarrollo web**. A lo largo de mi formación he trabajado con diferentes tecnologías y herramientas que me han permitido adquirir experiencia práctica en programación, bases de datos, desarrollo de aplicaciones y servicios web.
+<p>
+Soy estudiante de <b>Técnico en Computación en la Universidad Don Bosco</b> 
+y becaria del <b>Programa Oportunidades FGK</b>.
+</p>
 
-Actualmente continúo fortaleciendo mis conocimientos y desarrollando proyectos que me permitan aplicar lo aprendido, enfrentar nuevos retos y seguir creciendo profesionalmente.
+<p>
+Me interesa especialmente el <b>desarrollo de software y desarrollo web</b>. 
+A lo largo de mi formación he trabajado con diferentes tecnologías y herramientas 
+que me han permitido adquirir experiencia práctica en programación, bases de datos, 
+desarrollo de aplicaciones y servicios web.
+</p>
+
+<p>
+Actualmente continúo fortaleciendo mis conocimientos y desarrollando proyectos 
+que me permitan aplicar lo aprendido, enfrentar nuevos retos y seguir creciendo 
+profesionalmente.
+</p>
+
+    </td>
+
+    <td width="35%" align="center" valign="middle">
+      <img src="./animada.png" width="300" alt="Lucy programando"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
